@@ -1,4 +1,4 @@
-## Deploy Link : https://chatflow-nqiz.onrender.com/chats
+## Deploy Link : https://chatflow-nqiz.onrender.com
 
 # About the project
 
